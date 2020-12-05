@@ -3,9 +3,12 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.escapelife.site/)
-![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-%257A143?logo=Neovim&style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-%23EEEEEE?logo=flask&style=for-the-badge&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)
+![Coffee](https://img.shields.io/badge/-Coffee-%232F2625?logo=CoffeeScript&style=for-the-badge&logoColor=white)
 
 </div>
 
