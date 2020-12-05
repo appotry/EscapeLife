@@ -1,4 +1,13 @@
-### :cn: :octopus: Escape Wen 👋
+<h1 align="center">:cn: :octopus: Escape Wen 👋</h1>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.escapelife.site/)
+![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
+
+</div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=escapelife&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
