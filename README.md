@@ -53,6 +53,7 @@
 
 <div align="center">
 
-![ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=escapelife&column=7&margin-w=15&margin-h=15)
+<!-- ![ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=escapelife&column=7&margin-w=15&margin-h=15) server down 👇🏻 backup -->
+![ryo-ma/github-profile-trophy](https://trophygh.kolioaris.xyz/?username=escapelife&column=7&margin-w=15&margin-h=15)
 
 </div>
